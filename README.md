@@ -1,2 +1,2 @@
 # docker-setup
-Testing setting up docker
+Testing setting up a mini-docker environment
